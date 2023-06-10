@@ -14,7 +14,7 @@ author_profile: true
 # Publication
 ***
 
-## Normal but skewed?
+## Normal But Skewed?
 with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
 Published in _Journal of Applied Econometrics_, 2022 [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2927)
 
@@ -28,10 +28,10 @@ Published in _Journal of Applied Econometrics_, 2022 [Link](https://onlinelibrar
 ## Local Linearization Based Subvector Inference in Moment Inequality Models
 Revise and Resubmit at _Journal of Econometrics_, [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4227299)
 
-**Abstract** This paper introduces a bootstrap-based profiling inference method for subvectors in moment inequality models following insights from Bugni et al. (2017). Compared to their paper, the new method calculates the critical value by searching over a local neighborhood of a pre-estimator, instead of the whole null parameter space, to profile out nuisance parameters. In this way, non-linear moment conditions are simplified by linear expansion and the bootstrap iterates over quadratic programming problems, which significantly simplifies and accelerates computation. This method controls asymptotic size uniformly over a large class of data generating processes. In the Monte Carlo simulations, the new procedure improves upon the computing time of Bugni et al. (2017) by a factor of up to 170 and Kaido et al. (2019) by a factor of up to 27. I provide an empirical illustration estimating an airline entry game.
+**Abstract** This paper introduces a bootstrap-based profiling inference method for subvectors in moment inequality models following insights from Bugni et al. (2017). Compared to their paper, the new method calculates the critical value by searching over a local neighborhood of a pre-estimator, instead of the whole null parameter space, to profile out nuisance parameters. In this way, non-linear moment conditions are simplified by linear expansion and the bootstrap iterates over quadratic programming problems, which significantly simplifies and accelerates computation. This method controls asymptotic size uniformly over a large class of data generating processes. In the Monte Carlo simulations, the new procedure improves upon the computing time of Bugni et al. (2017) and Kaido et al. (2019) significantly. I provide an empirical illustration estimating an airline entry game.
 
 
-## Score-type tests for normal mixtures
+## Score-type Tests for Normal Mixtures
 with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
 Submitted, [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352902)
 
@@ -45,7 +45,8 @@ Submitted, [Link](https://www.cemfi.es/~sentana/es/Singular2305.pdf)
 **Abstract** We study score-type tests in likelihood contexts in which the nullity of the information matrix under the null is greater than one, thereby generalizing existing results in the literature. Examples include multivariate regressions with sample selectivity, semi-nonparametric distributions, Hermite expansions of Gaussian copulas, and purely non-linear predictive regressions among others. Our proposal, which involves higher-order derivatives, is asymptotically equivalent to the likelihood ratio test but only requires estimation under the null, a substantial advantage for resampling-based inference. We conduct extensive Monte Carlo exercises to study the finite sample size and power properties of our proposal, comparing it to alternative approaches.
 
 
-## Highly irregular serial correlation tests
+## Highly Irregular Serial Correlation Tests
 with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
 Submitted, [Link](https://www.cemfi.es/ftp/wp/2302.pdf)
+
 **Abstract** We develop tests for neglected serial correlation when the information matrix is repeatedly singular under the null. Specifically, we consider white noise against a multiplicative seasonal AR model, and a local-level model against a nesting UCARIMA one. Our proposals, which involve higher-order derivatives, are asymptotically equivalent to the likelihood ratio test but only require estimation under the null. Remarkably, we show that our proposed tests effectively check that certain autocorrelations of the observations are 0 , so their asymptotic distribution is standard. We conduct Monte Carlo exercises that study their finite sample size and power properties, comparing them to alternative approaches.
