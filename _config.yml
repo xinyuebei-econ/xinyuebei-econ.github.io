@@ -9,13 +9,13 @@ minimal_mistakes_skin: aqua
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Riley League"
+title                    : "Xinyue Bei"
 title_separator          : "-"
-name                     : &name "Riley League"
+name                     : &name "Xinyue Bei"
 description              : &description "Economics PhD Student at Duke University"
-url                      : https://rileyleague.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xinyuebei-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rileyleague.github.io"
+repository               : "xinyuebei-eocn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,7 +59,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "rileyleague"
+  username               : &twitter ""
 facebook:
   username               :
   app_id                 :
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Riley League"
-  avatar           : "headshot.jpg"
-  bio              : "Economics PhD student at Duke University interested in health economics and industrial organization"
+  name             : "Xinyue Bei"
+  avatar           : "headshot.png"
+  bio              : "Economics PhD student at Duke University interested in econometrics"
   location         : "Durham, NC"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ksQ9hTYAAAAJ&hl=en"
-  email            : "riley.league@duke.edu"
+  googlescholar    : ""
+  email            : "xinyue.bei@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rileyleague"
+  github           : "xinyuebei-econ"
   google_plus      :
   keybase          :
   instagram        :
@@ -111,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : &twitter "rileyleague"
+  twitter          : &twitter ""
   vine             :
   weibo            :
   xing             :
