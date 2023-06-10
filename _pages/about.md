@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm an economics PhD student at Duke University interested in econometrics.
+Welcome! I am Xinyue Bei (贝鑫月 in Chinese).
+
+I'm an economics PhD student at Duke University. My research interests lie broadly in econometrics. I will be on the job market in 2023-2024.
