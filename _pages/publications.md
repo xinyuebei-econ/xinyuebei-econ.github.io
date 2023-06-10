@@ -11,74 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-Below is a list of my research papers. Click on each one for more information. You can also download a BibTeX file of citation information for all of them by clicking [here](https://rileyleague.github.io/bibfiles/Leaguecites.bib).
+Below is a list of my research papers.
 
 ## Working Papers and Works in Progress
 ***
 
-### [Administrative Burden and Consolidation in Health Care: Evidence from Medicare Contractor Transitions](https://rileyleague.github.io/publications/MAC_effect)
-Working Paper, [Link](https://rileyleague.github.io/files/MAC_transitions.pdf)
+### Local Linearization Based Subvector Inference in Moment Inequality Models
+Revised and Resubmitted, Journal of Econometrics, [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4227299)
 
-**Takeaway:** After being exposed to higher claim denial rates following a change in the contractor processing their Medicare claims, providers invest in billing technology, bill more aggressively, and consolidate into larger practices, increasing total Medicare spending and lowering firm profits.
-
-### [Measuring Clinical Effectiveness in Practice: Evidence from EPO in Dialysis](https://rileyleague.github.io/publications/epo-elevation)
-with Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
-Revise & Resubmit at _American Economic Review_, [Link](https://rileyleague.github.io/files/bundledpayments.pdf)
-
-**Takeaway:** A switch from fee-for-service to a bundled payment led dialysis care providers to dramatically reduce the use of a controversial drug, which we show causes adverse events in patients and is less effective than estimates from clinical trials would suggest.
-
-### [Ambulance Taxis: The Impact of Regulation and Litigation on Health Care Fraud](https://rileyleague.github.io/publications/ambulancefraud)
-with Paul Eliason, Jetson Leder-Luis, Ryan McDevitt, and Jimmy Roberts \
-Revise & Resubmit at _Journal of Political Economy_, [Link](https://rileyleague.github.io/files/w29491.pdf)
-
-**Takeaway:** Administrative actions have a much larger impact on health care fraud than targeted criminal and civil enforcement in the context of non-emergent ambulance services for dialysis patients.
-
-### [Early-Life Shocks and Childhood Social Programs: Evidence of Catch-Up in Brazil](https://rileyleague.github.io/publications/catchup)
-with Dylan Fitz \
-Revise and Resubmit at _Journal of Development Studies_, [Link](http://rileyleague.github.io/files/catchup_leaguefitz.pdf)
-
-**Takeaway:** Brazil's Bolsa Família program improves child health and is most effective among children whose in utero conditions predisposed them to worse health outcomes.
-
-<!--### [COVID-19 Hospitalization Rate Among Privately Insured Dialysis Patients](https://rileyleague.github.io/publications/dialcovid)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Under Review
-
-**Takeaway:** In 2020, the COVID-19 hospitalization rate was 32 times higher for privately insured dialysis patients than other privately insured beneficiaries.
--->
-### [Regulation and Diffusion of Innovation Under Information Spillovers: The Case of New Medical Procedures](https://rileyleague.github.io/publications/CatIII)
-Work in Progress
-
-**Takeaway:** Information gained by physicians with exogenous incentives to adopt new medical procedures spills over to later-adopting physicians, contributing to the wider adoption of successful (and deadoption of unsuccessful) innovations. Medicare coverage policies can drive these adoption patterns.
-
-### [Gaming and Effort in Performance Pay](https://rileyleague.github.io/publications/QIP)
-with Luca Bertuzzi, Paul Eliason, Ben Heebsh, Ryan McDevitt, and Jimmy Roberts \
-Work in Progress
-
-**Takeaway:** Dialysis firms respond to the prospect of penalties for low quality care by both avoiding patients who would otherwise hurt their scores and by exerting effort to improve care quality.
-
-## Published Papers
-***
-
-### [Assessment of Health Care Spending Among Privately Insured Patients Initiating Dialysis Care](https://rileyleague.github.io/publications/privateinitiate)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797907?widget=personalizedcontent&previousarticle=0)
-
-**Takeaway:** Total health care spending increases by roughly $14,000 per month when privately insured enrollees start dialysis.
-
-### [Variability of Prices Paid for Hemodialysis by Employer-Sponsored Insurance in the US, 2012-2019](https://rileyleague.github.io/publications/privateprices)
-with Paul Eliason, Ryan McDevitt, Jimmy Roberts, and Heather Wong \
-Published in _JAMA Network Open_, 2022, [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789455)
-
-**Takeaway:** The price paid by private insurers for dialysis is more than six times the Medicare rate, and in some states the private price is much higher.
-
-### [School, Shocks, and Safety Nets: Can Conditional Cash Transfers Protect Human Capital Investments During Rainfall Shocks?](https://rileyleague.github.io/publications/school-shocks-safetynets)
-with Dylan Fitz \
-Published in _Journal of Development Studies_, 2021, [Published Version](https://www.tandfonline.com/doi/full/10.1080/00220388.2021.1928640?src=), [Working Paper Version](https://rileyleague.github.io/files/bolsa_schooling.pdf)
-
-**Takeaway:** Positive rainfall shocks cause lower-income children in Brazil to substitute away from schooling and toward paid labor, but the Bolsa Família program acts as a partial safety net that stabilizes human capital investments during short-run shocks.
-
-### [The Impact of Early-Life Shocks on Adult Welfare in Brazil: Questions of Measurement and Timing](https://rileyleague.github.io/publications/impact-of-early-life)
-with Dylan Fitz \
-Published in _Economics & Human Biology_, 2020, [Published Version](https://www.sciencedirect.com/science/article/pii/S1570677X19301807), [Working Paper Version](https://rileyleague.github.io/files/measurement.pdf)
-
-**Takeaway:** Early-life rainfall shocks can cause negative consequences into adulthood, but researchers should pay more attention to specific measurement and timing choices.
+**Abstract** This paper introduces a bootstrap-based profiling inference method for subvectors in moment inequality models following insights from Bugni et al. (2017). Compared to their paper, the new method calculates the critical value by searching over a local neighborhood of a pre-estimator, instead of the whole null parameter space, to profile out nuisance parameters. In this way, non-linear moment conditions are simplified by linear expansion and the bootstrap iterates over quadratic programming problems, which significantly simplifies and accelerates computation. This method controls asymptotic size uniformly over a large class of data generating processes. In the Monte Carlo simulations, the new procedure improves upon the computing time of Bugni et al. (2017) by a factor of up to 170 and Kaido et al. (2019) by a factor of up to 27. I provide an empirical illustration estimating an airline entry game.
