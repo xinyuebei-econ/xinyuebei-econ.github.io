@@ -11,12 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-# Publication
+# Publications
 ***
 
 ## Normal But Skewed?
 with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
-Published in _Journal of Applied Econometrics_, 2022 [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2927)
+_Journal of Applied Econometrics_, 2022 [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2927)
 
 **Abstract** We propose a multivariate normality test against skew normal distributions using higher-order log-likelihood derivatives, which is asymptotically equivalent to the likelihood ratio but only requires estimation under the null. Numerically, it is the supremum of the univariate skewness coefficient test over all linear combinations of the variables. We can simulate its exact finite sample distribution for any multivariate dimension and sample size. Our Monte Carlo exercises confirm its power advantages over alternative approaches. Finally, we apply it to the joint distribution of US city sizes in two consecutive censuses finding that non-normality is very clearly seen in their growth rates.
 
@@ -33,7 +33,7 @@ Revise and Resubmit at _Journal of Econometrics_, [Link](https://www.dropbox.com
 
 ## Score-type Tests for Normal Mixtures
 with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
-Submitted, [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352902)
+Revision Requested at _Journal of Econometrics_,  [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4352902)
 
 **Abstract** Testing normality against discrete normal mixtures is complex because some parameters turn increasingly underidentified along alternative ways of approaching the null, others are inequality constrained, and several higher-order derivatives become identically 0. These problems make the maximum of the alternative model log-likelihood function numerically unreliable. We propose score-type tests asymptotically equivalent to the likelihood ratio as the largest of two simple intuitive statistics that only require estimation under the null. One novelty of our approach is that we treat symmetrically both ways of writing the null hypothesis without excluding any region of the parameter space. We derive the asymptotic distribution of our tests under the null and sequences of local alternatives. We also show that their asymptotic distribution is the same whether applied to observations or standardized residuals from heteroskedastic regression models. Finally, we study their power in simulations and apply them to the residuals of Mincer earnings functions.
 
