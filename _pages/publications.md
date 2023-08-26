@@ -35,7 +35,7 @@ _Journal of Applied Econometrics_, 2022 [Link](https://onlinelibrary.wiley.com/d
 ***
 
 ## Local Linearization Based Subvector Inference in Moment Inequality Models
-Conditionally accepted at _Journal of Econometrics_, [Link](https://www.dropbox.com/s/yrknrsqcyvgsdzb/Subvector_JoE_D3.pdf?dl=0)
+Conditionally Accepted at _Journal of Econometrics_, [Link](https://www.dropbox.com/s/yrknrsqcyvgsdzb/Subvector_JoE_D3.pdf?dl=0)
 
 **Abstract** This paper introduces a bootstrap-based profiling inference method for subvectors in moment inequality models following insights from Bugni et al. (2017). Compared to their paper, the new method calculates the critical value by searching over a local neighborhood of a pre-estimator, instead of the whole null parameter space, to profile out nuisance parameters. In this way, non-linear moment conditions are simplified by linear expansion and the bootstrap iterates over quadratic programming problems, which significantly simplifies and accelerates computation. This method controls asymptotic size uniformly over a large class of data generating processes. In the Monte Carlo simulations, the new procedure improves upon the computing time of Bugni et al. (2017) and Kaido et al. (2019) significantly. I provide an empirical illustration estimating an airline entry game.
 
@@ -49,7 +49,7 @@ Revision Requested at _Journal of Econometrics_,  [Link](https://papers.ssrn.com
 
 ## Hypothesis Tests with a Repeatedly Singular Information Matrix 
 with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
-Submitted, [Link](https://www.cemfi.es/~sentana/es/Singular2305.pdf)
+[Link](https://www.cemfi.es/~sentana/es/Singular2305.pdf)
 
 **Abstract** We study score-type tests in likelihood contexts in which the nullity of the information matrix under the null is greater than one, thereby generalizing existing results in the literature. Examples include multivariate regressions with sample selectivity, semi-nonparametric distributions, Hermite expansions of Gaussian copulas, and purely non-linear predictive regressions among others. Our proposal, which involves higher-order derivatives, is asymptotically equivalent to the likelihood ratio test but only requires estimation under the null, a substantial advantage for resampling-based inference. We conduct extensive Monte Carlo exercises to study the finite sample size and power properties of our proposal, comparing it to alternative approaches.
 
