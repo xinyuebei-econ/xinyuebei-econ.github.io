@@ -15,7 +15,7 @@ author_profile: true
 ***
 
 ## Inference on Union Bounds 
-   **with Applications to DiD, RDD, Bunching, and Structual Counterfactuals**
+   **with Applications to DiD, RDD, Bunching, and Structual Counterfactuals**\
 Draft coming soon!
 
 
