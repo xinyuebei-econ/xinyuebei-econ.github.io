@@ -14,8 +14,7 @@ author_profile: true
 # Job Market Paper
 ***
 
-## Inference on Union Bounds 
-## with Applications to DiD, RDD, Bunching, and Structual Counterfactuals
+## Inference on Union Bounds \ with Applications to DiD, RDD, Bunching, and Structual Counterfactuals
 Draft coming soon!
 
 
