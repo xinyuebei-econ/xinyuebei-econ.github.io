@@ -56,6 +56,6 @@ with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](htt
 
 ## Highly Irregular Serial Correlation Tests
 with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
-Submitted, [Link](https://www.cemfi.es/ftp/wp/2302.pdf)
+Revision Requested at _Econometrics and Statistics_, [Link](https://www.cemfi.es/ftp/wp/2302.pdf)
 
 **Abstract** We develop tests for neglected serial correlation when the information matrix is repeatedly singular under the null. Specifically, we consider white noise against a multiplicative seasonal AR model, and a local-level model against a nesting UCARIMA one. Our proposals, which involve higher-order derivatives, are asymptotically equivalent to the likelihood ratio test but only require estimation under the null. Remarkably, we show that our proposed tests effectively check that certain autocorrelations of the observations are 0 , so their asymptotic distribution is standard. We conduct Monte Carlo exercises that study their finite sample size and power properties, comparing them to alternative approaches.
