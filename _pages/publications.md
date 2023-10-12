@@ -66,4 +66,4 @@ Revision Requested at _Econometrics and Statistics_, [Link](https://www.cemfi.es
 ***
 
 ## Score-type tests for dynamic mixtures and regime switching
-with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
+with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/) 
