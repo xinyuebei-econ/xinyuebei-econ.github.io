@@ -59,3 +59,11 @@ with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](htt
 Revision Requested at _Econometrics and Statistics_, [Link](https://www.cemfi.es/ftp/wp/2302.pdf)
 
 **Abstract** We develop tests for neglected serial correlation when the information matrix is repeatedly singular under the null. Specifically, we consider white noise against a multiplicative seasonal AR model, and a local-level model against a nesting UCARIMA one. Our proposals, which involve higher-order derivatives, are asymptotically equivalent to the likelihood ratio test but only require estimation under the null. Remarkably, we show that our proposed tests effectively check that certain autocorrelations of the observations are 0 , so their asymptotic distribution is standard. We conduct Monte Carlo exercises that study their finite sample size and power properties, comparing them to alternative approaches.
+
+<br>
+
+# Work In Progress
+***
+
+## Score-type tests for dynamic mixtures and regime switching
+with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
