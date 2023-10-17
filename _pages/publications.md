@@ -41,7 +41,7 @@ _Journal of Applied Econometrics_, 2022 [Link](https://onlinelibrary.wiley.com/d
 
 
 ## Score-type Tests for Normal Mixtures
-with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/) (Latest draft: 2023)\
+with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/) \
 Revision Requested at _Journal of Econometrics_ \
 Latest draft: December 2022, [Link](https://www.cemfi.es/ftp/wp/2213.pdf)
 
