@@ -15,7 +15,22 @@ author_profile: true
 ***
 
 ## Inference on Union Bounds with Applications to DiD, RDD, Bunching, and Structural Counterfactuals
-Draft coming soon!
+
+**Abstract** A union bound is a union of multiple bounds. Union bounds occur in a wide
+variety of empirical settings, from relaxations of the difference-in-differences parallel
+trends assumption to counterfactual analysis with partially identified structural
+parameters. In this paper, I provide the first general and systematic study of
+inference on these kinds of bounds. When the union is taken over a finite set,
+I propose a confidence interval based on modified conditional inference. I show
+that it improves upon existing methods in a large set of data generating processes.
+When the union is taken over an infinite set, I consider the set defined by moment
+inequalities, as is common in practice. I then propose a calibrated projection based
+inference procedure that generalizes results from the moment inequality subvector
+inference literature and is computationally simple. Finally, the new procedures
+give statistically significant results while the pre-existing alternatives do not in two
+empirical applications, the sensitivity analysis in Dustmann, Lindner, Schönberg,
+Umkehrer, and Vom Berge (2022) and the counterfactual analysis in Dickstein and
+Morales (2018).
 
 
 <br>
@@ -56,7 +71,7 @@ with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](htt
 
 
 ## Highly Irregular Serial Correlation Tests
-with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/), latest draft: 2023 [Link](https://www.cemfi.es/ftp/wp/2302.pdf) \
+with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/), latest draft: 2023 [Link](https://www.cemfi.es/~sentana/es/HighlyIrregularSCT2310.pdf) \
 Revision Requested at _Econometrics and Statistics_  
 
 
