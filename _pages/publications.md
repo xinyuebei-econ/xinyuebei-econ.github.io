@@ -14,7 +14,8 @@ author_profile: true
 # Job Market Paper
 ***
 
-## Inference on Union Bounds with Applications to DiD, RDD, Bunching, and Structural Counterfactuals, [Link](https://xinyuebei-econ.github.io/files/Bei_Xinyue_JMP.pdf)
+## Inference on Union Bounds with Applications to DiD, RDD, Bunching, and Structural Counterfactuals
+[Link](https://xinyuebei-econ.github.io/files/Bei_Xinyue_JMP.pdf)
 
 **Abstract** A union bound is a union of multiple bounds. Union bounds occur in a wide
 variety of empirical settings, from relaxations of the difference-in-differences parallel
