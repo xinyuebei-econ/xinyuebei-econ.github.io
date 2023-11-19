@@ -2,7 +2,11 @@
 main:
   - title: "Research"
     url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
          
   - title: "CV"
     url: /files/Bei_Xinyue_CV.pdf
-    
+  
+
