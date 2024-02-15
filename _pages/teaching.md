@@ -16,7 +16,7 @@ Statistical foundations of econometrics and data science (Undergrad core), 2021 
 ## Teaching Assistant
 
 Econometrics II (Ph.D. core), Prof. Matt Masten and Andrew Patton, 2020 Spring   
-Econometrics I (Ph.D. core), Prof. Federico Bugni, 2019 Fall
+Econometrics I (Ph.D. core), Prof. Federico Bugni, 2019 Fall 
 
 ## Grader
 
