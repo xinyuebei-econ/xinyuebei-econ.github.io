@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m an economics PhD student at Duke University. I will be joining the University of Texas at Austin as an Assistant Professor of Economics in August 2024.
+I’m an Assistant Professor of Economics at the University of Texas at Austin.  I received a Ph.D. in economics from Duke University in 2024. 
 
 I’m an econometrician working primarily on inference in partially identified models with applications in structural models, sensitivity analysis and counterfactual analysis. I am also interested in hypothesis tests in nonstandard situations, with applications to normal mixtures and regime switching, sample selectivity, skew normal distributions, and serial correlation. 
 

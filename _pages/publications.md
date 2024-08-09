@@ -11,28 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Job Market Paper
-***
-
-## Inference on Union Bounds with Applications to DiD, RDD, Bunching, and Structural Counterfactuals
-[Link](https://xinyuebei-econ.github.io/files/Bei_Xinyue_JMP.pdf)
-
-**Abstract** A union bound is a union of multiple bounds. Union bounds occur in a wide
-variety of empirical settings, from relaxations of the difference-in-differences parallel
-trends assumption to counterfactual analysis with partially identified structural
-parameters. In this paper, I provide the first general and systematic study of
-inference on these kinds of bounds. When the union is taken over a finite set,
-I propose a confidence interval based on modified conditional inference. I show
-that it improves upon existing methods in a large set of data generating processes.
-When the union is taken over an infinite set, I consider the set defined by moment
-inequalities, as is common in practice. I then propose a calibrated projection based
-inference procedure that generalizes results from the moment inequality subvector
-inference literature and is computationally simple. Finally, the new procedures
-give statistically significant results while the pre-existing alternatives do not in two
-empirical applications, the sensitivity analysis in Dustmann, Lindner, Schönberg,
-Umkehrer, and Vom Berge (2022) and the counterfactual analysis in Dickstein and
-Morales (2018).
-
 
 <br>
 
@@ -45,15 +23,15 @@ _Journal of Econometrics_, 2024 [Link](https://authors.elsevier.com/a/1i1Rb15Dji
 **Abstract** This paper introduces a bootstrap-based profiling inference method for subvectors in moment inequality models following insights from Bugni et al. (2017). Compared to their paper, the new method calculates the critical value by searching over a local neighborhood of a pre-estimator, instead of the whole null parameter space, to profile out nuisance parameters. In this way, non-linear moment conditions are simplified by linear expansion and the bootstrap iterates over quadratic programming problems, which significantly simplifies and accelerates computation. This method controls asymptotic size uniformly over a large class of data generating processes. In the Monte Carlo simulations, the new procedure improves upon the computing time of Bugni et al. (2017) and Kaido et al. (2019) significantly. I provide an empirical illustration estimating an airline entry game.
 
 ## Score-type Tests for Normal Mixtures
-with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/), latest draft: 2023 [Link](https://xinyuebei-econ.github.io/files/Bei_Xinyue_MixNormal.pdf) \
-Accepted at _Journal of Econometrics_ 
+with [Dante Amengual](https://www.cemfi.es/~amengual/), [Marine Carrasco](https://sceco.umontreal.ca/english/department-directory/professors/professor/in/in15211/sg/Marine%20Carrasco/), and [Enrique Sentana](https://www.cemfi.es/~sentana/)
+_Journal of Econometrics_, 2024 [Link](https://www.sciencedirect.com/science/article/pii/S0304407624000630?casa_token=gU1E_esPGeAAAAAA:LfFUzeXkdRKviRk9FN2j6f5hBfRw1m3fV8j9MokuelRX5AxNebbhPjocEeq44MS_REDUXvtv) 
 
 
 **Abstract** Testing normality against discrete normal mixtures is complex because some parameters turn increasingly underidentified along alternative ways of approaching the null, others are inequality constrained, and several higher-order derivatives become identically 0. These problems make the maximum of the alternative model log-likelihood function numerically unreliable. We propose score-type tests asymptotically equivalent to the likelihood ratio as the largest of two simple intuitive statistics that only require estimation under the null. One novelty of our approach is that we treat symmetrically both ways of writing the null hypothesis without excluding any region of the parameter space. We derive the asymptotic distribution of our tests under the null and sequences of local alternatives. We also show that their asymptotic distribution is the same whether applied to observations or standardized residuals from heteroskedastic regression models. Finally, we study their power in simulations and apply them to the residuals of Mincer earnings functions.
 
 ## Highly Irregular Serial Correlation Tests
-with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/), latest draft: 2023 [Link](https://www.cemfi.es/~sentana/es/HighlyIrregularSCT2310.pdf) \
-Accepted at _Econometrics and Statistics_  
+with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/)
+_Econometrics and Statistics_, 2024 [Link](https://www.sciencedirect.com/science/article/abs/pii/S2452306224000017) 
 
 
 **Abstract** We develop tests for neglected serial correlation when the information matrix is repeatedly singular under the null. Specifically, we consider white noise against a multiplicative seasonal AR model, and a local-level model against a nesting UCARIMA one. Our proposals, which involve higher-order derivatives, are asymptotically equivalent to the likelihood ratio test but only require estimation under the null. Remarkably, we show that our proposed tests effectively check that certain autocorrelations of the observations are 0 , so their asymptotic distribution is standard. We conduct Monte Carlo exercises that study their finite sample size and power properties, comparing them to alternative approaches.
@@ -71,6 +49,24 @@ _Journal of Applied Econometrics_, 2022 [Link](https://onlinelibrary.wiley.com/d
 # Working Papers
 ***
 
+## Inference on Union Bounds with Applications to DiD, RDD, Bunching, and Structural Counterfactuals
+[Link](https://xinyuebei-econ.github.io/files/Bei_Xinyue_JMP.pdf), [Code](https://github.com/xinyuebei-econ/UnionBounds/tree/main)
+
+**Abstract** A union bound is a union of multiple bounds. Union bounds occur in a wide
+variety of empirical settings, from relaxations of the difference-in-differences parallel
+trends assumption to counterfactual analysis with partially identified structural
+parameters. In this paper, I provide the first general and systematic study of
+inference on these kinds of bounds. When the union is taken over a finite set,
+I propose a confidence interval based on modified conditional inference. I show
+that it improves upon existing methods in a large set of data generating processes.
+When the union is taken over an infinite set, I consider the set defined by moment
+inequalities, as is common in practice. I then propose a calibrated projection based
+inference procedure that generalizes results from the moment inequality subvector
+inference literature and is computationally simple. Finally, the new procedures
+give statistically significant results while the pre-existing alternatives do not in two
+empirical applications, the sensitivity analysis in Dustmann, Lindner, Schönberg,
+Umkehrer, and Vom Berge (2022) and the counterfactual analysis in Dickstein and
+Morales (2018).
 
 ## Hypothesis Tests with a Repeatedly Singular Information Matrix 
 with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/),  latest draft: 2023 [Link](https://www.cemfi.es/~sentana/es/Singular2305.pdf) 
