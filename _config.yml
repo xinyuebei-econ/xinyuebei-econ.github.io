@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Xinyue Bei"
 title_separator          : "-"
 name                     : &name "Xinyue Bei"
-description              : &description "Economics PhD Student at Duke University"
+description              : &description "Assistant Professor at UT Austin"
 url                      : https://xinyuebei-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinyuebei-eocn.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Xinyue Bei"
   avatar           : "headshot.jpg"
-  bio              : "Economics PhD student at Duke University working on econometrics"
-  location         : "Durham, NC"
+  bio              : "Assistant Professor at UT Austin working on econometrics"
+  location         : "Austin, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=87p8G_gAAAAJ"
-  email            : "xinyue.bei@duke.edu"
+  email            : "xinyue.bei@austin.utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
