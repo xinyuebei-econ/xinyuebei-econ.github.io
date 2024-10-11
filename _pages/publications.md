@@ -22,9 +22,7 @@ author_profile: true
 ***
 
 ## Inference on Union Bounds 
-[Link](https://xinyuebei-econ.github.io/files/UnionBD.pdf), [R package](https://github.com/xinyuebei-econ/UnionBounds/tree/main), [Matlab](https://github.com/xinyuebei-econ/Union-Bounds---Matlab-Replication)
-
-Latest draft: 2024
+[Link](https://xinyuebei-econ.github.io/files/UnionBD.pdf), [R package](https://github.com/xinyuebei-econ/UnionBounds/tree/main), [Matlab](https://github.com/xinyuebei-econ/Union-Bounds---Matlab-Replication), latest draft: 2024
 
 **Abstract** A union bound is a union of multiple bounds. Union bounds occur in a wide variety of empirical settings, such as difference-in-differences, regression discontinuity design, bunching, and misspecification analysis. In this paper, I propose a confidence interval for these kinds of bounds based on modified conditional inference. I show that it improves upon existing methods in a large set of data generating processes. The new procedures give statistically significant results while the pre-existing alternatives do not in the empirical applications in Dustmann, Lindner, Schönberg, Umkehrer, and Vom Berge (2022).
 
