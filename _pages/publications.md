@@ -29,7 +29,7 @@ author_profile: true
 Partially supersedes my [JMP](https://xinyuebei-econ.github.io/files/Bei_Xinyue_JMP.pdf)
 
 ## Hypothesis Tests with a Repeatedly Singular Information Matrix 
-with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/),  latest draft: 2023 [Link](https://www.cemfi.es/~sentana/es/Singular2305.pdf) 
+with [Dante Amengual](https://www.cemfi.es/~amengual/) and [Enrique Sentana](https://www.cemfi.es/~sentana/),  latest draft: 2025 [Link](https://www.cemfi.es/~sentana/es/Singular2503_main.pdf), [Supplemental material](https://www.cemfi.es/~sentana/es/Singular2503_supp_app.pdf)
 
 
 **Abstract** We study score-type tests in likelihood contexts in which the nullity of the information matrix under the null is greater than one, thereby generalizing existing results in the literature. Examples include multivariate regressions with sample selectivity, semi-nonparametric distributions, Hermite expansions of Gaussian copulas, and purely non-linear predictive regressions among others. Our proposal, which involves higher-order derivatives, is asymptotically equivalent to the likelihood ratio test but only requires estimation under the null, a substantial advantage for resampling-based inference. We conduct extensive Monte Carlo exercises to study the finite sample size and power properties of our proposal, comparing it to alternative approaches.
