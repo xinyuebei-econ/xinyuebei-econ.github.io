@@ -21,6 +21,12 @@ author_profile: true
 # Working Papers
 ***
 
+## Inference under First-Order Degeneracy 
+with [Manu Navjeevan](https://navjeevan.dev/index.html)
+[Link](https://xinyuebei-econ.github.io/files/foc_degeneracy.pdf), latest draft: 2026
+
+**Abstract** We study inference in models where a transformation of parameters exhibits first-order degeneracy — that is, its gradient is zero or close to zero, making the standard delta method invalid. A leading example is causal mediation analysis, where the indirect effect is a product of coefficients and the gradient degenerates near the origin. In these local regions of degeneracy the limiting behaviors of plug-in estimators depend on nuisance parameters that are not consistently estimable. We show that this failure is intrinsic — around points of degeneracy, both regular and quantile-unbiased estimation are impossible. Despite these restrictions, we develop minimum-distance methods that deliver uniformly valid confidence intervals. We establish sufficient conditions under which standard chi-square critical values remain valid, and propose a simple bootstrap procedure when they are not. We demonstrate favorable power in simulations and in an empirical application linking teacher gender attitudes to student outcomes.
+
 ## Inference on Union Bounds 
 [Link](https://xinyuebei-econ.github.io/files/UnionBD.pdf), [R package](https://github.com/xinyuebei-econ/UnionBounds/tree/main), [Matlab](https://github.com/xinyuebei-econ/Union-Bounds---Matlab-Replication), latest draft: 2024
 
